@@ -9,3 +9,4 @@ class Solution{
         return count.every(val => val === 0);
     }
 }
+//time and space complexity : on and o1 

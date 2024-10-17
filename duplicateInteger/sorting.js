@@ -7,3 +7,4 @@ class Solution{
         return true;
     }
 }
+// time and space : on logn and on || o1 depending on the sorting algo
