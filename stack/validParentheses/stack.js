@@ -23,4 +23,4 @@ class Solution{
         }
         return ! stack.length; //if stack's length is 0 return true else false
     }
-}
+}//time and space complexity: on and on
