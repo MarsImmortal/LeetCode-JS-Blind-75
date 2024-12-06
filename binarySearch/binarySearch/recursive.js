@@ -8,5 +8,5 @@ class Solution{
         return this.binarySearch(0, nums.length-1, nums, target);
     }
 }
-//worse than itertative implementation on the basis of space complexity
-//time and space complexity O(log n) and O(log n)
+//Worse than itertative implementation on the basis of space complexity
+//Time and space complexity O(log n) and O(log n)
